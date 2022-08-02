@@ -9,7 +9,7 @@ Matplotlib
 Extract this into local data/ (data/seg_pred, data/seg_test, data/seg_train)
 
 ### Problem Statement
-Can we build an accurate convolutional neural network to accurately classify images into six categories - buildings, forest, glacier, mountain, sea, and street?
+This project was completed as part of a team of two working on a one day hackathon. Given only six hours of working time, can we build an accurate convolutional neural network to classify images into six categories - buildings, forest, glacier, mountain, sea, and street?
 
 ### The Data
 The provided dataset included 14,000 images for training (in six folders, presorted by category), 3,000 images for testing (again, presorted by category), and 7,000 images for predicting (although the Kaggle competition to which those predictions could be submitted is no longer running, so the prediction data was not used).
